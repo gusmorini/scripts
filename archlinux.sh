@@ -7,7 +7,7 @@ app=("bash-completion ntfs-3g dosfstools exfat-utils htop fastfetch papirus-icon
 app+=("firefox qbittorrent git curl wget")
 
 ### escritorio
-app+=("gimp inkscape")
+app+=("gimp inkscape libreoffice-fresh libreoffice-fresh-pt-br")
 
 ### fonts
 app+=("ttf-dejavu ttf-liberation noto-fonts")
