@@ -13,10 +13,10 @@ app+=("gimp inkscape")
 app+=("ttf-dejavu ttf-liberation noto-fonts")
 
 ### multimidia
-app+=("ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer showtime")
+app+=("ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer")
 
 ### interface gnome
-app+=("gdm gnome-shell gnome-control-center gnome-console gnome-calculator gnome-system-monitor gnome-disk-utility gnome-text-editor gnome-tweaks loupe papers gnome-browser-connector")
+app+=("gdm gnome-shell gnome-control-center gnome-console gnome-calculator gnome-system-monitor gnome-disk-utility gnome-text-editor gnome-tweaks loupe papers gnome-browser-connector showtime gnome-music")
 
 ### impressora e scanner
 app+=("cups cups-pdf sane-airscan simple-scan")
