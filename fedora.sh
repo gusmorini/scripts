@@ -6,7 +6,7 @@ cmd="dnf rm -y ${pack[@]}"
 sudo $cmd
 
 ### INSTALL
-pack=("git curl gimp inkscape fastfetch qbittorrent zsh")
+pack=("git curl gimp inkscape fastfetch qbittorrent zsh gnome-themes-extra rhythmbox gnome-tweaks")
 cmd="dnf in -y ${pack[@]}"
 sudo $cmd
 
